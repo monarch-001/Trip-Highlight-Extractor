@@ -1,5 +1,5 @@
 # Image Processing & Metadata
-opencv-python
+opencv-python-headless
 Pillow
 exifread
 facenet-pytorch
