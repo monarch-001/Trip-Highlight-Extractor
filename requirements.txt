@@ -1,5 +1,5 @@
 # Image Processing & Metadata
-opencv-python-headless
+opencv-python-headless==4.9.0.80
 insightface
 Pillow
 exifread
