@@ -1,0 +1,25 @@
+# User specified ignores
+Forked_Memories/
+temp_drive_files/
+Forked_Memories_V2/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+ENV/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# Project specific
+.thumbnails/
+weights/
+*.pt
+credentials.json
+engine.py.bak

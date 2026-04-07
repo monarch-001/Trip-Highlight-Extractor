@@ -1,0 +1,23 @@
+# Image Processing & Metadata
+opencv-python
+Pillow
+exifread
+facenet-pytorch
+
+# AI Model Stack
+transformers
+torch
+torchvision
+safetensors
+
+# Data Science & UI
+numpy<2.0.0
+scikit-learn
+pandas
+streamlit
+mediapipe
+
+# Google Drive Integration
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
