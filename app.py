@@ -4,8 +4,11 @@ import pandas as pd
 from engine import BatchAnalyzer, cluster_events, cluster_people, export_organized, filter_redundant
 from drive_utils import DriveHandler
 import time
-import tkinter as tk
-from tkinter import filedialog
+# import tkinter as tk
+# from tkinter import filedialog
+import io
+import zipfile
+import tempfile
 
 # --- CONFIG ---
 st.set_page_config(page_title="Efficient Trip Organizer", layout="wide")
